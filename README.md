@@ -1,4 +1,4 @@
-# Kala-Phrena-Game
+-# Kala-Phrena-Game
 This is the final demo of Kala;Phrena, which is the TFG of Higher Vocational Training in Cross-platform Application Development.
 
 This game is in Spanish, but suddenly will be available in English on itch.io
@@ -21,4 +21,18 @@ Contributors
 - Heal can be used by clicking right click during 3 seconds
 - Omnislash can be used by clicking Q key (If you have more than 1 HP and a lot of stamina).
 - Blood Nova can be used by clicking Q key meanwhile you're on Kalaserk. (If you have more than 2 HP and a lot of stamina)
+
+
+
+### How to install
+
+- Go to Releases
+
+- Go to the tag demo
+
+- Install first .zip (kalaphrena.demo.zip)
+
+- Open the folder and double click kala;phrena.exe
+
+- Enjoy :D
 
