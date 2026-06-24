@@ -8,6 +8,13 @@ Contributors
 - [manupingu8](https://github.com/manueltejedamartin-cyber)
 - [Cicarelli](https://github.com/Cicarelli451)
 
+## How to install
+- Go to Releases
+- Go to the tag "demo"
+- Download first .zip (kalaphrena.demo.zip)
+- Unzip the content
+- Open the folder and double click kala;phrena.exe
+- Enjoy :D
 
 ## Buttons in case you don't know how to play
 - Movement => WASD keys
@@ -21,18 +28,3 @@ Contributors
 - Heal can be used by clicking right click during 3 seconds
 - Omnislash can be used by clicking Q key (If you have more than 1 HP and a lot of stamina).
 - Blood Nova can be used by clicking Q key meanwhile you're on Kalaserk. (If you have more than 2 HP and a lot of stamina)
-
-
-
-### How to install
-
-- Go to Releases
-
-- Go to the tag demo
-
-- Install first .zip (kalaphrena.demo.zip)
-
-- Open the folder and double click kala;phrena.exe
-
-- Enjoy :D
-
