@@ -1,4 +1,4 @@
--# Kala-Phrena-Game
+# Kala-Phrena-Game
 This is the final demo of Kala;Phrena, which is the TFG of Higher Vocational Training in Cross-platform Application Development.
 
 This game is in Spanish, but suddenly will be available in English on itch.io
