@@ -16,7 +16,7 @@ Contributors
 - Attack => Left Click
 - Kalaserk => R key (Only when bar is full)
 
-### For the upgrades buyed from Dull (the ghost/dead shopper)
+### For the upgrades bought from Dull (the ghost/dead shopper)
 - Dash and Blood Dash can be used by pressing Shift
 - Heal can be used by clicking right click during 3 seconds
 - Omnislash can be used by clicking Q key (If you have more than 1 HP and a lot of stamina).
